@@ -2,7 +2,7 @@
 layout:     post
 title:      hallo word !
 subtitle:   测试
-date:       2018-06-05
+date:       2018-12-15
 author:     BY
 header-img: img/post-bg-cook.jpg
 catalog: true
